@@ -1,5 +1,7 @@
 <div id="header" align="center">
-  <img src="https://arum3d.com/wp-content/uploads/2021/12/Menu_milling-certre_image-1536x710.png" width="500"/>
+  <a href="https://arumdental.com">
+    <img src="https://arumdental.com/wp-content/uploads/2021/12/Menu_milling-certre_image-1536x710.png" width="500"/>
+  </a>
 </div>
 
 ## :tooth: About Us
